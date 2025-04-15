@@ -1,7 +1,7 @@
 # padroesdeteste-guia
 Guia simplificado sobre padrões de teste na área de qualidade de software.
 
-![padrões de testes - mindmap](https://github.com/user-attachments/assets/3bf95682-6636-4c0a-861f-3d78feb8aad9)
+![padrões de testes - mindmap (1)](https://github.com/user-attachments/assets/3bdc63f2-8d10-47d5-b68a-1502b04e91aa)
 
  📝👩🏾‍💻✏📚 **Principais objetivos dos padrões de teste:**
 
